@@ -21,41 +21,26 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
-### Core Platforms (Email Warmup Tools)
+### Core Platforms & Pricing Comparison
 
-- **[Warmup Inbox](https://warmupinbox.com/)**  
-  Popular email warmup service that simulates real conversations to improve sender reputation and inbox placement.
-
-- **[Folderly](https://folderly.com/)**  
-  AI-powered deliverability and warmup platform with detailed reputation monitoring and automated fixes.
-
-- **[Mailwarm](https://mailwarm.com/)**  
-  Simple and effective email warmup tool focused on gradual volume increase and positive engagement.
-
-- **[Reply](https://reply.io/)**  
-  Sales engagement platform with built-in warmup features and AI-powered sequences.
-
-- **[GMass](https://www.gmass.com/)**  
-  Gmail-based mass email tool with strong warmup and deliverability optimization capabilities.
-
-- **[Mailreach](https://mailreach.co/)**  
-  Automated email warmup and reputation management service with detailed analytics.
-
-- **[Warmbox](https://warmbox.io/)**  
-  Dedicated warmup platform that builds positive sending reputation through simulated interactions.
-
-- **[Lemwarm](https://lemwarm.com/)**  
-  AI-driven warmup tool with personalized engagement simulation for better deliverability.
-
-- **[Woodpecker](https://woodpecker.com/)**  
-  Cold email outreach platform with integrated warmup and reputation protection features.
-
-- **[Autowarmer (QuickMail)](https://quickmail.io/)**  
-  Automated warmup solution focused on safe scaling of cold email campaigns.
+| Tool | Starting Price (Monthly) | Annual Discount Price | Free Tier / Trial | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Warmup Inbox](https://warmupinbox.com/)** | $19 / inbox | $15 / inbox | 7-day free trial (No CC) | Popular service simulating real conversations for reputation and inbox placement. |
+| **[Folderly](https://folderly.com/)** | $120 / mailbox | $96 / mailbox | Free trial + Free "Pulse" | AI-powered deliverability platform with detailed reputation monitoring. |
+| **[Mailwarm](https://mailwarm.com/)** | $79 / inbox | $69 / inbox | No free trial | Effective warmup tool focused on gradual volume and positive engagement. |
+| **[Reply](https://reply.io/)** | $59 (Email Volume) | $49 / month | **Free Plan** (200 emails/mo) | Sales engagement platform with built-in warmup and AI sequences. |
+| **[GMass](https://www.gmass.com/)** | $29.95 / month | $20.75 / month | **Free Tier** (50 emails/day) | Gmail-based mass email tool with strong warmup capabilities. |
+| **[Mailreach](https://mailreach.co/)** | $25 / mailbox | $19.50 / mailbox | 3 free spam tests/day | Automated warmup and reputation management with detailed analytics. |
+| **[Warmbox](https://warmbox.io/)** | $19 / month | $15 / month | 7-day free trial | Builds positive sending reputation through simulated interactions. |
+| **[Lemwarm](https://lemwarm.com/)** | $29 / inbox | $24 / inbox | Free with Lemlist sub | AI-driven warmup with personalized engagement simulation. |
+| **[Woodpecker](https://woodpecker.com/)** | $29 / slot | N/A | 7-day free trial | Cold email platform with integrated warmup and protection features. |
+| **[Autowarmer (QuickMail)](https://quickmail.io/)** | $49 (Starter) | $9 / month | **Free Autowarmer** | Automated warmup solution focused on safe scaling via MailFlow. |
+| **[Instantly.ai](https://instantly.ai/)** | $47 / month | $37.60 / month | 14-day free trial | Unlimited warmup on paid plans with powerful outreach features. |
+| **[Smartlead](https://smartlead.ai/)** | $39 / month | $32.50 / month | 14-day free trial | Scalable warmup for multiple accounts on all paid plans. |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: Instantly.ai, Smartlead, and various ESP-native warmup features.
+**Other notable mentions**: Various ESP-native warmup features and agency-focused deliverability suites.
 
 ## Open-Source GitHub Projects
 
