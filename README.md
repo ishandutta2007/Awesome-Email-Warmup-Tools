@@ -1,27 +1,40 @@
-# Awesome-Email-Warmup-Tools
-## Top Email Warmup Tools Ecosystem
+# 🚀 Awesome Email Warmup Tools
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Email Warm-Up, Reputation Management & Inbox Placement*  
-**Last updated: March 2026**
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Email-Warmup-Tools?style=flat-square)](https://github.com/ishandutta2007/Awesome-Email-Warmup-Tools/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Email-Warmup-Tools?style=flat-square)](https://github.com/ishandutta2007/Awesome-Email-Warmup-Tools/network/members)
+[![GitHub contributors](https://img.shields.io/github/contributors/ishandutta2007/Awesome-Email-Warmup-Tools?style=flat-square)](https://github.com/ishandutta2007/Awesome-Email-Warmup-Tools/graphs/contributors)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository tracks notable **SaaS platforms** and **open-source projects** building **Email Warmup Tools**. These tools gradually increase sending volume, simulate human-like behavior, improve domain and IP reputation, and boost inbox placement rates to reduce spam flags and improve deliverability.
+**A curated list of the best Email Warmup Tools, SaaS products, and Open-Source projects to boost your email deliverability, sender reputation, and inbox placement.**
 
-**Examples** include Warmup Inbox, Folderly, Mailwarm, Reply, GMass, InboxWarm (OutreachBin), Mailreach, Warmbox, Lemwarm, Woodpecker, Warm Up Your Email, and Autowarmer (QuickMail) (the category leaders). Tools listed here emphasize **safe ramp-up**, engagement simulation, reputation monitoring, and integration with cold email tools.
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, custom warm-up logic, local execution, and full control — ideal for email marketers, agencies, and senders who want privacy and unlimited usage without monthly fees.
+## 🎯 Overview
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+Email warmup is the process of gradually increasing the volume of emails sent from a new or inactive email account to build a positive **sender reputation**. This repository tracks the most effective **SaaS platforms** and **Open-Source GitHub projects** designed to help you avoid spam filters and reach the inbox every time.
 
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+Whether you're doing cold outreach, marketing campaigns, or transactional emails, these tools ensure your domain and IP stay healthy.
 
-## SaaS Products
+### 🔑 Key Benefits
+- 📈 **Safe Ramp-Up**: Gradually increase sending limits.
+- 🛡️ **Reputation Management**: Monitor and improve domain/IP health.
+- 📥 **Inbox Placement**: Boost the chances of landing in the primary folder.
+- 🤖 **AI Engagement**: Simulate human-like interactions (opens, replies, stars).
 
-### Core Platforms & Pricing Comparison
+---
+
+## 📑 Table of Contents
+- [💳 SaaS Products & Pricing](#-saas-products--pricing)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#-disclaimer)
+
+---
+
+## 💳 SaaS Products & Pricing
+
+### 🏆 Core Platforms & Pricing Comparison
 
 | Tool | Starting Price (Monthly) | Annual Discount Price | Free Tier / Trial | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -38,61 +51,57 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Instantly.ai](https://instantly.ai/)** | $47 / month | $37.60 / month | 14-day free trial | Unlimited warmup on paid plans with powerful outreach features. |
 | **[Smartlead](https://smartlead.ai/)** | $39 / month | $32.50 / month | 14-day free trial | Scalable warmup for multiple accounts on all paid plans. |
 
-### Advanced & Specialized Platforms
+### 🔍 Advanced & Specialized Platforms
 
-**Other notable mentions**: Various ESP-native warmup features and agency-focused deliverability suites.
+**Other notable mentions**: Various ESP-native warmup features and agency-focused deliverability suites for specialized outreach.
 
-## Open-Source GitHub Projects
+---
 
-### Dedicated Email Warmup & Deliverability Tools
+## 💻 Open-Source GitHub Projects
 
-- **[n8n Email Warmup Workflows](https://github.com/n8n-io/n8n)**  
-  Open-source workflow automation tool with powerful templates for building custom email warmup sequences, reputation monitoring, and engagement simulation.
+### 🛠️ Dedicated Email Warmup & Deliverability Tools
 
-- **[Mailcow](https://github.com/mailcow/mailcow-dockerized)**  
-  Complete open-source mail server stack that can be configured with custom warmup scripts and reputation tools.
+- **[n8n Email Warmup Workflows](https://github.com/n8n-io/n8n)** ⚡  
+  Open-source workflow automation tool with templates for building custom email warmup sequences.
 
-- **[Postfix + Warmup Scripts](https://github.com/search?q=postfix+warmup)**  
-  Multiple community repositories with scripts for gradual email volume ramp-up and reputation building using self-hosted MTAs.
+- **[Mailcow](https://github.com/mailcow/mailcow-dockerized)** 🐮  
+  Complete open-source mail server stack that can be configured with custom warmup scripts.
 
-- **[rspamd Warmup Pipelines](https://github.com/rspamd/rspamd)**  
-  Open-source spam filtering system that can be integrated into custom warmup and deliverability monitoring setups.
+- **[Postfix + Warmup Scripts](https://github.com/search?q=postfix+warmup)** 📜  
+  Community repositories with scripts for gradual email volume ramp-up using self-hosted MTAs.
 
-- **[OpenDMARC + Reputation Tools](https://github.com/trusteddomainproject/OpenDMARC)**  
-  Open-source DMARC implementation with reporting and monitoring tools essential for warmup reputation management.
+- **[rspamd Warmup Pipelines](https://github.com/rspamd/rspamd)** 🛡️  
+  Open-source spam filtering system for custom warmup and deliverability monitoring setups.
 
-- **[Huginn Email Agents](https://github.com/huginn/huginn)**  
-  Personal automation agent that can create sophisticated warmup sequences and monitor deliverability metrics.
+- **[OpenDMARC + Reputation Tools](https://github.com/trusteddomainproject/OpenDMARC)** 🔐  
+  Essential tools for DMARC implementation and warmup reputation management.
 
-- **[Custom Python Warmup Scripts](https://github.com/search?q=email+warmup+python)**  
-  Numerous open-source Python scripts using SMTP/IMAP for safe, gradual email sending and engagement simulation.
+- **[Huginn Email Agents](https://github.com/huginn/huginn)** 🤖  
+  Personal automation agent for creating sophisticated warmup sequences and monitoring.
 
-- **[Self-Hosted Warmup Dashboard](https://github.com/search?q=email+warmup+dashboard)**  
-  Community projects providing web dashboards to monitor and control warmup campaigns locally.
+- **[Custom Python Warmup Scripts](https://github.com/search?q=email+warmup+python)** 🐍  
+  Numerous scripts using SMTP/IMAP for safe, gradual email sending and engagement.
 
-- **[LangGraph Warmup Agents](https://github.com/langchain-ai/langgraph)**  
-  Stateful agent framework for building intelligent, adaptive warmup agents that adjust behavior based on reputation feedback.
+- **[Self-Hosted Warmup Dashboard](https://github.com/search?q=email+warmup+dashboard)** 📊  
+  Web dashboards to monitor and control warmup campaigns locally.
 
-### Additional Strong Open-Source Options
+- **[LangGraph Warmup Agents](https://github.com/langchain-ai/langgraph)** 🧠  
+  AI agents that adjust warmup behavior based on real-time reputation feedback.
 
-- **[Haraka](https://github.com/haraka/Haraka)** — High-performance SMTP server with plugin support for warmup logic.
-- **[Exim](https://github.com/Exim/exim)** — Highly configurable MTA with deliverability-focused configurations.
-- **[Dovecot](https://github.com/dovecot/core)** — Often paired with warmup tools in self-hosted mail stacks.
-- **Scrapy / Playwright** scripts for monitoring blacklist status and reputation.
-- **n8n + Ollama** workflows for AI-powered warmup strategy optimization.
-- Many community **Gmail + IMAP** warmup tools using local LLMs for content variation.
+---
 
-**Frameworks for building custom warm-up systems**: Combine **n8n**, **Postfix**, **rspamd**, and **LangGraph** with local LLMs (Ollama) to create fully private, intelligent, and adaptive email warmup infrastructures.
+## 🤝 How to Contribute
 
-## How to Contribute
+We love contributions! To add a new tool or update an entry:
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+1. **Fork** the repo.
+2. **Add/edit** entries in `README.md` (keep the tabular format for SaaS).
+3. **Include**: Name, link, 1–2 sentence description, and pricing/status.
+4. **Submit** a PR with a brief explanation.
 
-Star the repo if you find it useful!
+🌟 **Don't forget to star the repo if you find it helpful!**
 
+---
 
 ## 📈 Star History
 
@@ -101,19 +110,20 @@ Star the repo if you find it useful!
 	 <picture>
 	   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Email-Warmup-Tools&type=date&theme=dark&legend=bottom-right" />
 	   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Email-Warmup-Tools&type=date&legend=bottom-right" />
-	   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Email-Warmup-Tools&type=date&legend=bottom-right" />
+	   <img alt="Star History Chart for Awesome Email Warmup Tools" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Email-Warmup-Tools&type=date&legend=bottom-right" />
 	 </picture>
 	</a>
 </div>
 
+---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Email warmup must be done responsibly and in compliance with anti-spam laws (CAN-SPAM, GDPR, etc.). Sudden high volume can damage reputation.
+- This is a **community-curated** list — not exhaustive and not an official endorsement.
+- Email warmup must be done responsibly and in compliance with anti-spam laws (**CAN-SPAM, GDPR**, etc.).
 - Self-hosted open-source solutions require proper server configuration and ongoing monitoring.
 
 ---
 
-**Made for cold email senders, outreach specialists, marketers, and sales teams.**  
-Let's make email warmup more transparent, controllable, and effective.
+**Made with ❤️ for cold email senders, outreach specialists, and growth hackers.**  
+*Let's make email warmup more transparent, controllable, and effective.*
