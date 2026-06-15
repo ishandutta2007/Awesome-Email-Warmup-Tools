@@ -36,20 +36,20 @@ Whether you're doing cold outreach, marketing campaigns, or transactional emails
 
 ### 🏆 Core Platforms & Pricing Comparison
 
-| Tool | Starting Price (Monthly) | Annual Discount Price | Free Tier / Trial | Description |
-| :--- | :--- | :--- | :--- | :--- |
-| **[Warmup Inbox](https://warmupinbox.com/)** | $19 / inbox | $15 / inbox | 7-day free trial (No CC) | Popular service simulating real conversations for reputation and inbox placement. |
-| **[Folderly](https://folderly.com/)** | $120 / mailbox | $96 / mailbox | Free trial + Free "Pulse" | AI-powered deliverability platform with detailed reputation monitoring. |
-| **[Mailwarm](https://mailwarm.com/)** | $79 / inbox | $69 / inbox | No free trial | Effective warmup tool focused on gradual volume and positive engagement. |
-| **[Reply](https://reply.io/)** | $59 (Email Volume) | $49 / month | **Free Plan** (200 emails/mo) | Sales engagement platform with built-in warmup and AI sequences. |
-| **[GMass](https://www.gmass.com/)** | $29.95 / month | $20.75 / month | **Free Tier** (50 emails/day) | Gmail-based mass email tool with strong warmup capabilities. |
-| **[Mailreach](https://mailreach.co/)** | $25 / mailbox | $19.50 / mailbox | 3 free spam tests/day | Automated warmup and reputation management with detailed analytics. |
-| **[Warmbox](https://warmbox.io/)** | $19 / month | $15 / month | 7-day free trial | Builds positive sending reputation through simulated interactions. |
-| **[Lemwarm](https://lemwarm.com/)** | $29 / inbox | $24 / inbox | Free with Lemlist sub | AI-driven warmup with personalized engagement simulation. |
-| **[Woodpecker](https://woodpecker.com/)** | $29 / slot | N/A | 7-day free trial | Cold email platform with integrated warmup and protection features. |
-| **[Autowarmer (QuickMail)](https://quickmail.io/)** | $49 (Starter) | $9 / month | **Free Autowarmer** | Automated warmup solution focused on safe scaling via MailFlow. |
-| **[Instantly.ai](https://instantly.ai/)** | $47 / month | $37.60 / month | 14-day free trial | Unlimited warmup on paid plans with powerful outreach features. |
-| **[Smartlead](https://smartlead.ai/)** | $39 / month | $32.50 / month | 14-day free trial | Scalable warmup for multiple accounts on all paid plans. |
+| Tool | Est. Revenue (ARR) | Starting Price (Monthly) | Annual Discount Price | Free Tier / Trial | Description |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Lemwarm](https://lemwarm.com/)** | ~$53M | $29 / inbox | $24 / inbox | Free with Lemlist sub | AI-driven warmup with personalized engagement simulation (Part of Lemlist). |
+| **[Instantly.ai](https://instantly.ai/)** | ~$20M - $80M | $47 / month | $37.60 / month | 14-day free trial | Unlimited warmup on paid plans with powerful outreach features. |
+| **[Reply](https://reply.io/)** | ~$14.7M - $17.1M | $59 (Email Volume) | $49 / month | **Free Plan** (200 emails/mo) | Sales engagement platform with built-in warmup and AI sequences. |
+| **[Smartlead](https://smartlead.ai/)** | ~$14M | $39 / month | $32.50 / month | 14-day free trial | Scalable warmup for multiple accounts on all paid plans. |
+| **[GMass](https://www.gmass.com/)** | ~$8.6M | $29.95 / month | $20.75 / month | **Free Tier** (50 emails/day) | Gmail-based mass email tool with strong warmup capabilities. |
+| **[Woodpecker](https://woodpecker.com/)** | ~$5.89M | $29 / slot | N/A | 7-day free trial | Cold email platform with integrated warmup and protection features. |
+| **[Autowarmer (QuickMail)](https://quickmail.io/)** | ~$2.8M | $49 (Starter) | $9 / month | **Free Autowarmer** | Automated warmup solution focused on safe scaling via MailFlow. |
+| **[Folderly](https://folderly.com/)** | ~$1.6M - $2.8M | $120 / mailbox | $96 / mailbox | Free trial + Free "Pulse" | AI-powered deliverability platform with detailed reputation monitoring. |
+| **[Warmup Inbox](https://warmupinbox.com/)** | ~$1.2M | $19 / inbox | $15 / inbox | 7-day free trial (No CC) | Popular service simulating real conversations for reputation and inbox placement. |
+| **[Warmbox](https://warmbox.io/)** | ~$19 / month | $15 / month | 7-day free trial | Builds positive sending reputation through simulated interactions. |
+| **[Mailwarm](https://mailwarm.com/)** | ~$500K - $1M | $79 / inbox | $69 / inbox | No free trial | Effective warmup tool focused on gradual volume and positive engagement. |
+| **[Mailreach](https://mailreach.co/)** | ~$450K | $25 / mailbox | $19.50 / mailbox | 3 free spam tests/day | Automated warmup and reputation management with detailed analytics. |
 
 ### 🔍 Advanced & Specialized Platforms
 
