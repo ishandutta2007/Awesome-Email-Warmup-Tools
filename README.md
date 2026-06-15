@@ -61,32 +61,32 @@ Whether you're doing cold outreach, marketing campaigns, or transactional emails
 
 ### 🛠️ Dedicated Email Warmup & Deliverability Tools
 
-- **[n8n Email Warmup Workflows](https://github.com/n8n-io/n8n)** ⚡  
+- **[n8n Email Warmup Workflows](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social)](https://github.com/n8n-io/n8n/stargazers) ⚡  
   Open-source workflow automation tool with templates for building custom email warmup sequences.
 
-- **[Mailcow](https://github.com/mailcow/mailcow-dockerized)** 🐮  
+- **[Huginn Email Agents](https://github.com/huginn/huginn)** [![GitHub stars](https://img.shields.io/github/stars/huginn/huginn?style=social)](https://github.com/huginn/huginn/stargazers) 🤖  
+  Personal automation agent for creating sophisticated warmup sequences and monitoring.
+
+- **[LangGraph Warmup Agents](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social)](https://github.com/langchain-ai/langgraph/stargazers) 🧠  
+  AI agents that adjust warmup behavior based on real-time reputation feedback.
+
+- **[Mailcow](https://github.com/mailcow/mailcow-dockerized)** [![GitHub stars](https://img.shields.io/github/stars/mailcow/mailcow-dockerized?style=social)](https://github.com/mailcow/mailcow-dockerized/stargazers) 🐮  
   Complete open-source mail server stack that can be configured with custom warmup scripts.
+
+- **[rspamd Warmup Pipelines](https://github.com/rspamd/rspamd)** [![GitHub stars](https://img.shields.io/github/stars/rspamd/rspamd?style=social)](https://github.com/rspamd/rspamd/stargazers) 🛡️  
+  Open-source spam filtering system for custom warmup and deliverability monitoring setups.
+
+- **[OpenDMARC + Reputation Tools](https://github.com/trusteddomainproject/OpenDMARC)** [![GitHub stars](https://img.shields.io/github/stars/trusteddomainproject/OpenDMARC?style=social)](https://github.com/trusteddomainproject/OpenDMARC/stargazers) 🔐  
+  Essential tools for DMARC implementation and warmup reputation management.
 
 - **[Postfix + Warmup Scripts](https://github.com/search?q=postfix+warmup)** 📜  
   Community repositories with scripts for gradual email volume ramp-up using self-hosted MTAs.
-
-- **[rspamd Warmup Pipelines](https://github.com/rspamd/rspamd)** 🛡️  
-  Open-source spam filtering system for custom warmup and deliverability monitoring setups.
-
-- **[OpenDMARC + Reputation Tools](https://github.com/trusteddomainproject/OpenDMARC)** 🔐  
-  Essential tools for DMARC implementation and warmup reputation management.
-
-- **[Huginn Email Agents](https://github.com/huginn/huginn)** 🤖  
-  Personal automation agent for creating sophisticated warmup sequences and monitoring.
 
 - **[Custom Python Warmup Scripts](https://github.com/search?q=email+warmup+python)** 🐍  
   Numerous scripts using SMTP/IMAP for safe, gradual email sending and engagement.
 
 - **[Self-Hosted Warmup Dashboard](https://github.com/search?q=email+warmup+dashboard)** 📊  
   Web dashboards to monitor and control warmup campaigns locally.
-
-- **[LangGraph Warmup Agents](https://github.com/langchain-ai/langgraph)** 🧠  
-  AI agents that adjust warmup behavior based on real-time reputation feedback.
 
 ---
 
